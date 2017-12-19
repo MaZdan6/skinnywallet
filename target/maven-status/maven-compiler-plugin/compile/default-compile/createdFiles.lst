@@ -1,0 +1,6 @@
+hello\Person.class
+hello\Application.class
+hello\PersonRepository.class
+configuration\AppConfiguration.class
+configuration\SwaggerConfig.class
+org\zdanek\skinnywallet\model\Item.class
